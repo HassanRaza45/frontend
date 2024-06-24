@@ -1,0 +1,16 @@
+ #name{
+    color: white;
+    text-decoration: underline;
+ }
+.nav-item{
+    color: white;
+}
+#navbarSupportedContent{
+    padding-left: 500px;
+}
+.section-tag{
+background: color #1e1e1e;
+}
+.divide{
+padding:50px;
+}
