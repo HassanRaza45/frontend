@@ -1,16 +1,65 @@
  #name{
     color: white;
     text-decoration: underline;
+    padding: 50px;
+    margin: 10px;
+
  }
-.nav-item{
-    color: white;
+.custom-navbar {
+    background-color: #1E1E1E !important;
+}
+ 
+.custom-heading {
+    font-size: 4rem; /* Adjust the font size as needed */
+    font-weight: bold;
+    padding-left: 70px;
+}
+.custom-heading1 {
+     /* Adjust the font size as needed */
+    font-weight: bold;
+    padding-left: 70px;
+    
 }
 #navbarSupportedContent{
-    padding-left: 500px;
+    padding-left: 800px;
+    color: white;
+}
+.navbar navbar-expand-lg{
+    background-color: #1e1e1e;
 }
 .section-tag{
-background: color #1e1e1e;
+background-color: #1e1e1e;
 }
 .divide{
 padding:50px;
+margin: -24px;
+width: 200000000px;
+height: 20000000px;
+color: white;      
 }
+.paragraph{
+    padding-left: 70px;
+   color: #f8f7f9;
+    width: 469px;
+    height: 36px;
+    font-weight:lighter
+}
+.paragraph1{
+    color: #FFF;
+    padding-left: 70px;
+    width: 469px;
+    height: 36px;
+    font-weight:bold;
+    font-size: 2rem;
+    text-decoration:underline;
+    
+    
+}
+#images{
+    position:fixed;
+    top: 40px; /* Adjust the position */
+    right:-100px;
+    padding: 100px;
+    margin: 20px;
+}
+ 
